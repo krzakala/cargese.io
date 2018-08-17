@@ -2,7 +2,7 @@
 
 # Program, day by day
 
-Andrea Montanari: [Lecture notes on two-layer neural networks](montanari.pdf)
+Andrea Montanari: [Lecture notes on two-layer neural networks](Montanari.pdf)
 
 # Poster session I (Friday 24)
 

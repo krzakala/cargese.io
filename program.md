@@ -2,9 +2,9 @@
 
 # Program, day by day
 
-Andrea Montanari: ![Lecture notes on two-layer neural networks](montanari.pdf)
+Andrea Montanari: [Lecture notes on two-layer neural networks](montanari.pdf)
 
-# Poster session I 
+# Poster session I (Friday 24)
 
 Samy Jelassi: Smoothed analysis of the low-rank approach for smooth semidefinite programs
 
@@ -42,7 +42,7 @@ Grant Rotskoff: Neural networks as interacting particle systems
 
 Thomas Schiex: Exact optimization of pairwise decomposable energy and computational protein design
 
-# Poster session II
+# Poster session II (Wednesday 29)
 
 Clément Luneau: Entropy of Multilayer Generalized Linear Models: proof of the replica formula with the adaptive interpolation method.
 

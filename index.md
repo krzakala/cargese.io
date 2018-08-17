@@ -9,7 +9,7 @@ Marc Mézard (Ecole Normale, Paris), Gerard Ben Arous (Courant Institute), Giuli
 Florent Krzakala (ENS Paris FR), Lenka Zdeborova (IPhT Saclay FR)
 
 # Program at a glance:
-![program](timetable.jpg)
+![program](timetable.jp2)
 
 # Lecture notes and slides:
 

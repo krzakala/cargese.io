@@ -8,12 +8,8 @@ Marc Mézard (Ecole Normale, Paris), Gerard Ben Arous (Courant Institute), Giuli
 # Organization Committee:
 Florent Krzakala (ENS Paris FR), Lenka Zdeborova (IPhT Saclay FR)
 
-# Program at a glance:
+# Program at a glance: [Click here fore detailed program](https://www.google.com)
 ![program](timetable.jpg)
-
-# Lecture notes and slides:
-
-Andrea Montanari: ![Lecture notes on two-layer neural networks](montanari.pdf)
 
 # Twitter feed:
 

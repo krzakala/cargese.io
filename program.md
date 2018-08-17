@@ -1,11 +1,10 @@
 ![program](front.jpg)
 
 # Program, day by day
-![program](timetable.jpg)
-
-# Lecture notes and slides:
 
 Andrea Montanari: ![Lecture notes on two-layer neural networks](montanari.pdf)
+
+# Poster sessions
 
 # Twitter feed:
 

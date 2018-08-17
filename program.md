@@ -1,6 +1,6 @@
 ![program](front.jpg)
 
-# Program, day by day
+# Slides and lecture notes
 
 Andrea Montanari: [Lecture notes on two-layer neural networks](Montanari.pdf)
 

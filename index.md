@@ -8,7 +8,7 @@ Marc Mézard (Ecole Normale, Paris), Gerard Ben Arous (Courant Institute), Giuli
 # Organization Committee:
 Florent Krzakala (ENS Paris FR), Lenka Zdeborova (IPhT Saclay FR)
 
-# Program at a glance: [Click here fore detailed program](https://www.google.com)
+# Program at a glance: [Click here fore detailed program](program.md)
 ![program](timetable.jpg)
 
 # Twitter feed:

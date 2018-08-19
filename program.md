@@ -3,6 +3,7 @@
 # TUESDAY 21 lides and lecture notes
 
 9-12.15: Marc Mezard 
+
 14-17.15: Andrea Montanari [Lecture notes on two-layer neural networks](Montanari.pdf)
 
 # Poster session I (Friday 24)

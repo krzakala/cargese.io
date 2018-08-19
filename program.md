@@ -1,6 +1,6 @@
 ![program](front.jpg)
 
-# TUESDAY 21 lides and lecture notes
+# DAY1: TUESDAY 21
 
 9-12.15: Marc Mezard 
 

@@ -1,8 +1,9 @@
 ![program](front.jpg)
 
-# Slides and lecture notes
+# TUESDAY 21 lides and lecture notes
 
-Andrea Montanari: [Lecture notes on two-layer neural networks](Montanari.pdf)
+9-12.15: Marc Mezard 
+14-17.15: Andrea Montanari [Lecture notes on two-layer neural networks](Montanari.pdf)
 
 # Poster session I (Friday 24)
 
@@ -44,7 +45,7 @@ Thomas Schiex: Exact optimization of pairwise decomposable energy and computatio
 
 # Poster session II (Wednesday 29)
 
-Clément Luneau: Entropy of Multilayer Generalized Linear Models: proof of the replica formula with the adaptive interpolation method.
+Clément Luneau: Entropy of Multilayer Generalized Linear Models: proof of the replica formula with the adaptive interpolation method.
 
 Pan Zhang: Unsupervised Generative Modeling Using Matrix Product States
 
@@ -68,9 +69,9 @@ Antoine Maillard: The committee machine: Computational to statistical gaps in le
 
 Stefano Sarao: Performance of Langevin dynamics in high dimensional inference.
 
-Aurélien Decelle: Thermodynamics properties of restricted boltzmann machines.
+Aurélien Decelle: Thermodynamics properties of restricted boltzmann machines.
 
-Beatriz Seoane Bartolomé: Can a neural network learn a gauge symmetry?
+Beatriz Seoane Bartolomé: Can a neural network learn a gauge symmetry?
 
 Alia Abbara: Universal transitions in noiseless compressed sensing and phase retrieval
 

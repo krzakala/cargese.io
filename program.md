@@ -6,11 +6,13 @@
 
 14-17.15: Andrea Montanari [Lecture notes on two-layer neural networks](Montanari.pdf)
 
+18.30: Welcome drink @ the institute
+
 # DAY2: WEDNESDAY 22
 
 9-12.15: Alexander Tkatchenko
 
-14-14.45: Guilhem Semerjian
+14-14.45: Guilhem Semerjian   [Phase transitions in inference problems on sparse random graphs](semerjian_cargese.pdf)
 
 14.45-15.30: Federico Ricci-Tersenghi
 

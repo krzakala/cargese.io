@@ -6,6 +6,18 @@
 
 14-17.15: Andrea Montanari [Lecture notes on two-layer neural networks](Montanari.pdf)
 
+# DAY2: WEDNESDAY 22
+
+9-12.15: Alexander Tkatchenko
+
+14-14.45: Guilhem Semerjian
+
+14.45-15.30: Federico Ricci-Tersenghi
+
+15.45-16.30: Afonso Bandeira
+
+16.30-17.15: Leo Miolane
+
 # Poster session I (Friday 24)
 
 Samy Jelassi: Smoothed analysis of the low-rank approach for smooth semidefinite programs

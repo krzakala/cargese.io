@@ -18,7 +18,7 @@
 
 15.45-16.30: Afonso Bandeira
 
-16.30-17.15: Leo Miolane
+16.30-17.15: Leo Miolane  [Phase transitions in Generalized Linear Models](leo_GLM.pdf)
 
 # DAY3: THURSDAY 23
 

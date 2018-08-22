@@ -22,7 +22,7 @@
 
 # DAY3: THURSDAY 23
 
-9-12.15: Dmtry Pantchenko
+9-12.15: Dmitry Panchenko
 
 14-14.45: Will Perkins
 

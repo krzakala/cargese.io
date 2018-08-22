@@ -2,7 +2,7 @@
 
 # DAY1: TUESDAY 21
 
-9-12.15: Marc Mezard [Statistical physics of inference]((Cargese 2018 Mezard.pdf)
+9-12.15: Marc Mezard [Statistical physics of inference](Mezard.pdf)
 
 14-17.15: Andrea Montanari [Lecture notes on two-layer neural networks](Montanari.pdf)
 

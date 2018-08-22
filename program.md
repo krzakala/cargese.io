@@ -2,7 +2,7 @@
 
 # DAY1: TUESDAY 21
 
-9-12.15: Marc Mezard 
+9-12.15: Marc Mezard [Statistical physics of inference]((Cargese 2018 Mezard.pdf)
 
 14-17.15: Andrea Montanari [Lecture notes on two-layer neural networks](Montanari.pdf)
 
@@ -19,6 +19,18 @@
 15.45-16.30: Afonso Bandeira
 
 16.30-17.15: Leo Miolane
+
+# DAY3: THURSDAY 23
+
+9-12.15: Dmtry Pantchenko
+
+14-14.45: Will Perkins
+
+14.45-15.30:  Alice Guillonnet
+
+15.45-16.30: Christina Lee Yu
+
+16.30-17.15: Quentin Berthet
 
 # Poster session I (Friday 24)
 

@@ -14,7 +14,7 @@
 
 14-14.45: Guilhem Semerjian   [Phase transitions in inference problems on sparse random graphs](semerjian_cargese.pdf)
 
-14.45-15.30: Federico Ricci-Tersenghi
+14.45-15.30: Federico Ricci-Tersenghi  [Belief Propagation and  Monte Carlo based algorithms to solve inference problems on sparse random graphs](Fede.pdf)
 
 15.45-16.30: Afonso Bandeira
 

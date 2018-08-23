@@ -24,8 +24,8 @@
 
 9-12.15: Dmitry Panchenko
 
-Introductory lecture by Dmitry can be found online [Lecture 1](https://youtu.be/RCHQqaZVfT4) and
-[Leture 2](https://youtu.be/iDWMMqknWyE).
+Introductory lectures by Dmitry can be found online [Lecture 1](https://youtu.be/RCHQqaZVfT4) and
+[Lecture 2](https://youtu.be/iDWMMqknWyE).
 
 14-14.45: Will Perkins
 
@@ -37,7 +37,7 @@ Introductory lecture by Dmitry can be found online [Lecture 1](https://youtu.be/
 
 18.30: Boat trip in Cargese Harbor
 
-# DAY4: THURSDAY 23
+# DAY4: FRIDAY 24
 
 
 9-12.15: Nicolas Brunel
@@ -47,6 +47,8 @@ Introductory lecture by Dmitry can be found online [Lecture 1](https://youtu.be/
 14.45-15.30:  David Schwab
 
 15.45-16.30: Surya Ganguli
+
+EVENING POSTER SESSION I
 
 # Poster session I (Friday 24)
 

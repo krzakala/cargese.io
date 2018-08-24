@@ -62,6 +62,9 @@ Chemistry and Physics and Machine Learning Together:
 16.30-17.15: Marc Lelarge
 
 
+#Mardi 28 Août :  CONFERENCE GRAND PUBLIC by [Stephane Mallat](stef.jpg)
+
+
 # Poster session I (Friday 24)
 
 Samy Jelassi: Smoothed analysis of the low-rank approach for smooth semidefinite programs

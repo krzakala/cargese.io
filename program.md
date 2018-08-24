@@ -45,7 +45,7 @@ Chemistry and Physics and Machine Learning Together:
 
 14.45-15.30:  David Schwab
 
-15.45-16.30: Surya Ganguli
+15.30-16.15: Surya Ganguli
 
 18.00 - 20.00: EVENING POSTER SESSION I
 
@@ -55,7 +55,7 @@ Chemistry and Physics and Machine Learning Together:
 
 14-14.45: Jean Barbier
 
-14.45-15.30:  Ahmed El Aloui
+14.45-15.30:  Ahmed El Alaoui
 
 15.45-16.30: Aukosh Jagganath
 

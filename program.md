@@ -53,7 +53,7 @@ Chemistry and Physics and Machine Learning Together:
 
 9-12.15: Gérard Ben Arous
 
-14-14.45: Jean Barbier
+14-14.45: Jean Barbier [The adaptive interpolation method for the Wigner spike model](JB.pdf)
 
 14.45-15.30:  Ahmed El Alaoui
 

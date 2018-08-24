@@ -12,7 +12,7 @@ Florent Krzakala (ENS Paris FR), Lenka Zdeborova (IPhT Saclay FR)
 # Program at a glance: [Click here for detailed program](program.md)
 ![program](timetable.jpg)
 
-#  Announcement: ![wewant](wewant.jpg)
+#  Announcement: ![wewant](wewant.jpg =50x50)
 You enjoy the school ? We organizers (Florent Krzakala and Lenka Zdeborova) are looking for postdocs on these topics. Come talk to us during the conference!
 
 # Twitter feed:

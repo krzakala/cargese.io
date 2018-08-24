@@ -35,7 +35,6 @@ Chemistry and Physics and Machine Learning Together:
 
 16.30-17.15: Quentin Berthet [Computational aspects in Statistics:Sparse PCA & Ising blockmodel](QB.pdf)
 
-
 18.30: Boat trip in Cargese Harbor
 
 # DAY4: FRIDAY 24

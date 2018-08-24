@@ -33,7 +33,8 @@ Chemistry and Physics and Machine Learning Together:
 
 15.45-16.30: Christina Lee Yu: [Iterative Collaborative Filtering for Sparse Matrix Estimation](CLY.pdf)
 
-16.30-17.15: Quentin Berthet
+16.30-17.15: Quentin Berthet [Computational aspects in Statistics:Sparse PCA & Ising blockmodel](QB.pdf)
+
 
 18.30: Boat trip in Cargese Harbor
 

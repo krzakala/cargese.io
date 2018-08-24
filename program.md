@@ -62,7 +62,7 @@ Chemistry and Physics and Machine Learning Together:
 16.30-17.15: Marc Lelarge
 
 
-# Mardi 28 Août :  Conference by Stephane Mallat![Stephane Mallat](stef.jpg)
+# Mardi 28 Août :  Conference by Stephane Mallat ![Stephane Mallat](stef.jpg)
 
 # Poster session I (Friday 24)
 
@@ -77,8 +77,6 @@ Gabriele Sicuro: The fractional matching problem
 Dmitriy (Tim) Kunisky: Tight frames, quantum information, and degree 4 sum-of-squares over the hypercube
 
 Benjamin Aubin: Storage capacity in symmetric binary perceptrons
-
-George Stamatescu: Some perspectives on gradient based learning for the binary weight perceptron
 
 Sebastian Goldt: Stochastic Thermodynamics of Learning
 

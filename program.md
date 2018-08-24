@@ -18,7 +18,7 @@ Chemistry and Physics and Machine Learning Together:
 
 14.45-15.30: Federico Ricci-Tersenghi  [Belief Propagation and  Monte Carlo based algorithms to solve inference problems on sparse random graphs](Fede.pdf)
 
-15.45-16.30: Afonso Bandeira
+15.45-16.30: Afonso Bandeira [Statistical estimation under group actions: the sample complexity of multi-reference alignment](AB.pdf)
 
 16.30-17.15: Leo Miolane  [Phase transitions in Generalized Linear Models](leo_GLM.pdf)
 
@@ -27,11 +27,11 @@ Chemistry and Physics and Machine Learning Together:
 9-12.15: Dmitry Panchenko: Introductory lectures by Dmitry can be found online [Lecture 1](https://youtu.be/RCHQqaZVfT4) and
 [Lecture 2](https://youtu.be/iDWMMqknWyE).
 
-14-14.45: Will Perkins
+14-14.45: Will Perkins: [Bethe states of random factor graphs](https://arxiv.org/abs/1709.03827)
 
 14.45-15.30:  Alice Guillonnet
 
-15.45-16.30: Christina Lee Yu
+15.45-16.30: Christina Lee Yu: [Iterative Collaborative Filtering for Sparse Matrix Estimation](CLY.pdf)
 
 16.30-17.15: Quentin Berthet
 

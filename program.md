@@ -10,7 +10,9 @@
 
 # DAY2: WEDNESDAY 22
 
-9-12.15: Alexander Tkatchenko
+9-12.15: Alexander Tkatchenko: Bringing Atomistic Modeling in
+Chemistry and Physics and Machine Learning Together:
+[Part 1](Cargese-lecture-2018-1.pdf) and [Part 2](Cargese-lecture-2018-2.pdf).
 
 14-14.45: Guilhem Semerjian   [Phase transitions in inference problems on sparse random graphs](semerjian_cargese.pdf)
 
@@ -22,9 +24,7 @@
 
 # DAY3: THURSDAY 23
 
-9-12.15: Dmitry Panchenko
-
-Introductory lectures by Dmitry can be found online [Lecture 1](https://youtu.be/RCHQqaZVfT4) and
+9-12.15: Dmitry Panchenko: Introductory lectures by Dmitry can be found online [Lecture 1](https://youtu.be/RCHQqaZVfT4) and
 [Lecture 2](https://youtu.be/iDWMMqknWyE).
 
 14-14.45: Will Perkins
@@ -39,7 +39,6 @@ Introductory lectures by Dmitry can be found online [Lecture 1](https://youtu.be
 
 # DAY4: FRIDAY 24
 
-
 9-12.15: Nicolas Brunel
 
 14-14.45: Remi Monasson
@@ -48,7 +47,20 @@ Introductory lectures by Dmitry can be found online [Lecture 1](https://youtu.be
 
 15.45-16.30: Surya Ganguli
 
-EVENING POSTER SESSION I
+18.00 - 20.00: EVENING POSTER SESSION I
+
+# DAY5: SATURDAY 25
+
+9-12.15: Gérard Ben Arous
+
+14-14.45: Jean Barbier
+
+14.45-15.30:  Ahmed El Aloui
+
+15.45-16.30: Aukosh Jagganath
+
+16.30-17.15: Marc Lelarge
+
 
 # Poster session I (Friday 24)
 

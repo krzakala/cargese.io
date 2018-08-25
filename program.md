@@ -59,7 +59,7 @@ Chemistry and Physics and Machine Learning Together:
 
 15.45-16.30: Aukosh Jagganath
 
-16.30-17.15: Marc Lelarge
+16.30-17.15: Marc Lelarge  [Unsupervised learning:symmetric low-rank matrix estimation,community detection and triplet loss.](Cargese18_lelarge.pdf)
 
 # Mardi 28 Août :  Conference by Stephane Mallat ![Stephane Mallat](stef.jpg)
 

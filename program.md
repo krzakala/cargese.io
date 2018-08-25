@@ -47,7 +47,6 @@ Chemistry and Physics and Machine Learning Together:
 
 15.30-16.15: Surya Ganguli [Theories of deep learning: generalization, expressivity, and training](SG.pdf)
 
-
 18.00 - 20.00: EVENING POSTER SESSION I
 
 # DAY5: SATURDAY 25

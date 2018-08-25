@@ -71,9 +71,9 @@ Chris Metzler:Unsupervised Learning with Stein's Unbiased Risk Estimator
 
 Marino Raffaele: [Revisiting the challenges of MaxClique](POSTER_MCP.pdf)
 
-Gabriele Sicuro: The fractional matching problem
+Gabriele Sicuro: [The fractional matching problem](sicuro_fractional.pdf)
 
-Dmitriy (Tim) Kunisky: Tight frames, quantum information, and degree 4 sum-of-squares over the hypercube
+Dmitriy (Tim) Kunisky: [Tight frames, quantum information, and degree 4 sum-of-squares over the hypercube](poster_Kunisky.pdf)
 
 Benjamin Aubin: [Storage capacity in symmetric binary perceptrons](poster_Aubin.pdf)
 
@@ -81,11 +81,11 @@ Sebastian Goldt: Stochastic Thermodynamics of Learning
 
 Christian Schmidt: estimating symmetric matrices with extensive rank
 
-Adrian Kosowski: Ergodic Effects in Token Circulation
+Adrian Kosowski: [Ergodic Effects in Token Circulation](poster-kosowski.pdf)
 
 Chan Chun Lam: Adaptive interpolation scheme for inference problems with sparse underlying factor graph
 
-Inbar Seroussi: Phase Transitions in Stochastic Diffusion on a General Network
+Inbar Seroussi: [Phase Transitions in Stochastic Diffusion on a General Network](PosterCorsicaInbar.pdf)
 
 Jonathan Dong: Optical realization of Echo-State Networks with light-scattering materials
 
@@ -93,7 +93,7 @@ Mihai Nica: Universality of log-normal distribution for randomly initialized neu
 
 Andrey Lokhov: Understanding the nature of quantum annealers with statistical learning.
 
-Eric DeGiuli: Random language model -- a path to structured complexity
+Eric De Giuli: [Random language model -- a path to structured complexity](What is the landscape of natural language?)
 
 Grant Rotskoff: Neural networks as interacting particle systems
 
@@ -101,9 +101,9 @@ Thomas Schiex: Exact optimization of pairwise decomposable energy and computatio
 
 # Poster session II (Wednesday 29)
 
-Clément Luneau: Entropy of Multilayer Generalized Linear Models: proof of the replica formula with the adaptive interpolation method.
+Clément Luneau: [Entropy of Multilayer Generalized Linear Models: proof of the replica formula with the adaptive interpolation method](poster_cluneau.pdf)
 
-Pan Zhang: Unsupervised Generative Modeling Using Matrix Product States
+Pan Zhang: [Unsupervised Generative Modeling Using Matrix Product States](poster_Zhang.pdf)
 
 Andre Manoel: [Approximate Message-Passing for Convex Optimization with Non-Separable Penalties](poster_AMP.pdf)
 
@@ -117,13 +117,13 @@ Neha Wadia: In Search of Critical Points on Deep Net Optimization Landscapes
 
 Luca Saglietti: Role of synaptic stochasticity in training low-precision neural networks
 
-Carlo Lucibello: Limits of the MAP estimator in the phase retrieval problem
+Carlo Lucibello: [Limits of the MAP estimator in the phase retrieval problem](gasp-phase-retrieval.pdf)
 
 Satoshi Takabe: Trainable ISTA for Sparse Signal Recovery
 
 Antoine Maillard: The committee machine: Computational to statistical gaps in learning a two-layers neural network
 
-Stefano Sarao: Performance of Langevin dynamics in high dimensional inference.
+Stefano Sarao: [Performance of Langevin dynamics in high dimensional inference](poster_Sarao_Cargese.pdf)
 
 Aurélien Decelle: [Thermodynamics properties of restricted boltzmann machines](poster_AD.pdf)
 

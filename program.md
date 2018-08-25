@@ -45,7 +45,8 @@ Chemistry and Physics and Machine Learning Together:
 
 14.45-15.30:  David Schwab
 
-15.30-16.15: Surya Ganguli
+15.30-16.15: Surya Ganguli [Theories of deep learning: generalization, expressivity, and training](SG.pdf)
+
 
 18.00 - 20.00: EVENING POSTER SESSION I
 
@@ -55,28 +56,27 @@ Chemistry and Physics and Machine Learning Together:
 
 14-14.45: Jean Barbier [The adaptive interpolation method for the Wigner spike model](JB.pdf)
 
-14.45-15.30:  Ahmed El Alaoui
+14.45-15.30:  Ahmed El Alaoui [Detection limits in the spiked Wigner model](https://arxiv.org/abs/1806.09588)
 
 15.45-16.30: Aukosh Jagganath
 
 16.30-17.15: Marc Lelarge
 
-
 # Mardi 28 Août :  Conference by Stephane Mallat ![Stephane Mallat](stef.jpg)
 
 # Poster session I (Friday 24)
 
-Samy Jelassi: Smoothed analysis of the low-rank approach for smooth semidefinite programs
+Samy Jelassi: [Smoothed analysis of the low-rank approach for smooth semidefinite programs](Poster_J.pdf)
 
 Chris Metzler:Unsupervised Learning with Stein's Unbiased Risk Estimator
 
-Marino Raffaele: Revisiting the challenges of MaxClique
+Marino Raffaele: [Revisiting the challenges of MaxClique](POSTER_MCP.pdf)
 
 Gabriele Sicuro: The fractional matching problem
 
 Dmitriy (Tim) Kunisky: Tight frames, quantum information, and degree 4 sum-of-squares over the hypercube
 
-Benjamin Aubin: Storage capacity in symmetric binary perceptrons
+Benjamin Aubin: [Storage capacity in symmetric binary perceptrons](poster_Aubin.pdf)
 
 Sebastian Goldt: Stochastic Thermodynamics of Learning
 
@@ -106,7 +106,7 @@ Clément Luneau: Entropy of Multilayer Generalized Linear Models: proof of the r
 
 Pan Zhang: Unsupervised Generative Modeling Using Matrix Product States
 
-Andre Manoel: Approximate Message-Passing for Convex Optimization with Non-Separable Penalties
+Andre Manoel: [Approximate Message-Passing for Convex Optimization with Non-Separable Penalties](poster_AMP.pdf)
 
 Joris Guerin: Improving Image Clustering With Multiple Pretrained CNN Feature Extractors
 
@@ -126,7 +126,7 @@ Antoine Maillard: The committee machine: Computational to statistical gaps in le
 
 Stefano Sarao: Performance of Langevin dynamics in high dimensional inference.
 
-Aurélien Decelle: Thermodynamics properties of restricted boltzmann machines.
+Aurélien Decelle: [Thermodynamics properties of restricted boltzmann machines](poster_AD.pdf)
 
 Beatriz Seoane Bartolomé: Can a neural network learn a gauge symmetry?
 

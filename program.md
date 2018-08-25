@@ -93,7 +93,7 @@ Mihai Nica: Universality of log-normal distribution for randomly initialized neu
 
 Andrey Lokhov: Understanding the nature of quantum annealers with statistical learning.
 
-Eric De Giuli: [Random language model -- a path to structured complexity](What is the landscape of natural language?)
+Eric De Giuli: [Random language model -- a path to structured complexity](EDG.pdf)
 
 Grant Rotskoff: Neural networks as interacting particle systems
 

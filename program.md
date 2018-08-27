@@ -138,15 +138,15 @@ Chan Chun Lam: Adaptive interpolation scheme for inference problems with sparse 
 
 Inbar Seroussi: [Phase Transitions in Stochastic Diffusion on a General Network](PosterCorsicaInbar.pdf)
 
-Jonathan Dong: Optical realization of Echo-State Networks with light-scattering materials
+Jonathan Dong: [Optical realization of Echo-State Networks with light-scattering materials](JD.pdf)
 
-Mihai Nica: Universality of log-normal distribution for randomly initialized neural nets
+Mihai Nica: [Universality of log-normal distribution for randomly initialized neural nets](Gradients_in_NNs_Mihai_Nica_Poster.pdf)
 
 Andrey Lokhov: Understanding the nature of quantum annealers with statistical learning.
 
 Eric De Giuli: [Random language model -- a path to structured complexity](EDG.pdf)
 
-Grant Rotskoff: Neural networks as interacting particle systems
+Grant Rotskoff: [Neural networks as interacting particle systems](rotskoff_cargese.pdf)
 
 Thomas Schiex: Exact optimization of pairwise decomposable energy and computational protein design
 
@@ -158,7 +158,7 @@ Pan Zhang: [Unsupervised Generative Modeling Using Matrix Product States](poster
 
 Andre Manoel: [Approximate Message-Passing for Convex Optimization with Non-Separable Penalties](poster_AMP.pdf)
 
-Joris Guerin: Improving Image Clustering With Multiple Pretrained CNN Feature Extractors
+Joris Guerin: [Improving Image Clustering With Multiple Pretrained CNN Feature Extractors](impro.pdf)
 
 Ada Altieri: Constraint satisfaction mechanisms for marginal stability in large ecosystems
 

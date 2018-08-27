@@ -61,9 +61,60 @@ Chemistry and Physics and Machine Learning Together:
 
 16.30-17.15: Marc Lelarge  [Unsupervised learning:symmetric low-rank matrix estimation,community detection and triplet loss.](Cargese18_lelarge.pdf)
 
-# Mardi 28 Août :  Conference by Stephane Mallat ![Stephane Mallat](stef.jpg)
+# DAY6: MONDAY 27
 
-# Poster session I (Friday 24)
+9-12.15: Giulio Biroli
+
+14-17.15: Yann Lecun
+
+# DAY7: TUESDAY 28
+
+9-12.15: Sundeep Rangan
+
+14-14.45: Cynthia Rush
+
+14.45-15.30:  PierFrancesco Urbani
+
+15.45-16.30: Galeen Reeves
+
+16.30-17.15: Yoshiyuki Kabashima
+
+# Evending  Conference Grand Public by Stephane Mallat ![Stephane Mallat](stef.jpg)
+
+# DAY8: WEDNESDAY 29
+
+9-12.15: Naftali Tishby
+
+14-14.45: Marylou Gabrie
+
+14.45-15.30: Chiara Cammarota
+
+15.30-16.15: Matthieu Wyart
+
+18.00 - 20.00: EVENING POSTER SESSION II
+
+# DAY9: THRUSDAY 30
+
+9-12.15: Stephane Mallat
+
+14-14.45: Soledad Vilar
+
+14.45-15.30: Samuel Schoenholz
+
+15.30-16.15: Francesco Zamponi
+
+
+# DAY10: FRIDAY 31
+
+9-12.15: Riccardo Zecchina
+
+14-14.45: Levent Sagun
+
+14.45-15.30: Jean-Philippe Bouchaud
+
+15.30-16.15: Giorgio Parisi
+
+# Details: Poster session I (Friday 24)
 
 Samy Jelassi: [Smoothed analysis of the low-rank approach for smooth semidefinite programs](Poster_J.pdf)
 
@@ -99,7 +150,7 @@ Grant Rotskoff: Neural networks as interacting particle systems
 
 Thomas Schiex: Exact optimization of pairwise decomposable energy and computational protein design
 
-# Poster session II (Wednesday 29)
+# Details: Poster session II (Wednesday 29)
 
 Clément Luneau: [Entropy of Multilayer Generalized Linear Models: proof of the replica formula with the adaptive interpolation method](poster_cluneau.pdf)
 

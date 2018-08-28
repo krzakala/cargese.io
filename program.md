@@ -83,7 +83,7 @@ Chemistry and Physics and Machine Learning Together:
 
 # DAY8: WEDNESDAY 29
 
-9-12.15: Naftali Tishby
+9-12.15: Naftali Tishby [The Information Theory of Deep Learning:  What do the layers represent? ](T.pdf)
 
 14-14.45: Marylou Gabrie
 

@@ -118,7 +118,8 @@ Chemistry and Physics and Machine Learning Together:
 
 Samy Jelassi: [Smoothed analysis of the low-rank approach for smooth semidefinite programs](Poster_J.pdf)
 
-Chris Metzler:Unsupervised Learning with Stein's Unbiased Risk Estimator
+Chris Metzler:
+[Unsupervised Learning with Stein's Unbiased Risk Estimator](MetzlerPoster.pdf)
 
 Marino Raffaele: [Revisiting the challenges of MaxClique](POSTER_MCP.pdf)
 
@@ -128,13 +129,13 @@ Dmitriy (Tim) Kunisky: [Tight frames, quantum information, and degree 4 sum-of-s
 
 Benjamin Aubin: [Storage capacity in symmetric binary perceptrons](poster_Aubin.pdf)
 
-Sebastian Goldt: Stochastic Thermodynamics of Learning
+Sebastian Goldt: [Stochastic Thermodynamics of Learning](seb.pdf)
 
-Christian Schmidt: estimating symmetric matrices with extensive rank
+Christian Schmidt: [Estimating symmetric matrices with extensive rank](dico.pdf)
 
 Adrian Kosowski: [Ergodic Effects in Token Circulation](poster-kosowski.pdf)
 
-Chan Chun Lam: Adaptive interpolation scheme for inference problems with sparse underlying factor graph
+Chan Chun Lam: [Adaptive interpolation scheme for inference problems with sparse underlying factor graph](CCL.pdf)
 
 Inbar Seroussi: [Phase Transitions in Stochastic Diffusion on a General Network](PosterCorsicaInbar.pdf)
 
@@ -160,7 +161,7 @@ Andre Manoel: [Approximate Message-Passing for Convex Optimization with Non-Sepa
 
 Joris Guerin: [Improving Image Clustering With Multiple Pretrained CNN Feature Extractors](impro.pdf)
 
-Ada Altieri: Constraint satisfaction mechanisms for marginal stability in large ecosystems
+Ada Altieri: [Constraint satisfaction mechanisms for marginal stability in large ecosystems](ada.pdf)
 
 Federica Gerace: From statistical inference to a differential learning rule for stochastic neural networks.
 
@@ -170,7 +171,7 @@ Luca Saglietti: Role of synaptic stochasticity in training low-precision neural 
 
 Carlo Lucibello: [Limits of the MAP estimator in the phase retrieval problem](gasp-phase-retrieval.pdf)
 
-Satoshi Takabe: Trainable ISTA for Sparse Signal Recovery
+Satoshi Takabe: [Trainable ISTA for Sparse Signal Recovery](Takabe_Corsica_2018poster.pdf)
 
 Antoine Maillard: The committee machine: Computational to statistical gaps in learning a two-layers neural network
 
@@ -182,7 +183,7 @@ Beatriz Seoane Bartolomé: Can a neural network learn a gauge symmetry?
 
 Alia Abbara: Universal transitions in noiseless compressed sensing and phase retrieval
 
-Tomoyuki Obuchi: Accelerating Cross-Validation in Multinomial Logistic Regression with L1-Regularization
+Tomoyuki Obuchi: [Accelerating Cross-Validation in Multinomial Logistic Regression with L1-Regularization](obuchi.pdf)
 
 #  Announcement: <img src="wewant.jpg" alt="drawing" width="100"/>
 You enjoy the school ? We organizers (Florent Krzakala and Lenka

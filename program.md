@@ -90,7 +90,7 @@ de-biasing and uncertainty estimation in LASSO](Kabashima.pdf)
 
 14.45-15.30: Chiara Cammarota
 
-15.30-16.15: Matthieu Wyart
+15.30-16.15: Matthieu Wyart [Loss landscape in deep learning: Role of a “Jamming” transition](deepnets2.pdf)
 
 18.00 - 20.00: EVENING POSTER SESSION II
 
@@ -102,7 +102,8 @@ de-biasing and uncertainty estimation in LASSO](Kabashima.pdf)
 
 14.45-15.30: Samuel Schoenholz[PRIORS FOR DEEP INFINITE NETWORKS](SAM.pdf)
 
-15.30-16.15: Francesco Zamponi[some notes](FZ.pdf)
+15.30-16.15: Francesco
+Zamponi[Random Close Packing vs SAT-UNSAT:  a short note ](FZ.pdf)
 
 
 # DAY10: FRIDAY 31
@@ -149,8 +150,6 @@ Andrey Lokhov: Understanding the nature of quantum annealers with statistical le
 Eric De Giuli: [Random language model -- a path to structured complexity](EDG.pdf)
 
 Grant Rotskoff: [Neural networks as interacting particle systems](rotskoff_cargese.pdf)
-
-Thomas Schiex: Exact optimization of pairwise decomposable energy and computational protein design
 
 # Details: Poster session II (Wednesday 29)
 

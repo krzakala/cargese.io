@@ -100,9 +100,9 @@ de-biasing and uncertainty estimation in LASSO](Kabashima.pdf)
 
 14-14.45: Soledad Vilar
 
-14.45-15.30: Samuel Schoenholz
+14.45-15.30: Samuel Schoenholz[PRIORS FOR DEEP INFINITE NETWORKS](SAM.pdf)
 
-15.30-16.15: Francesco Zamponi
+15.30-16.15: Francesco Zamponi[some notes](FZ.pdf)
 
 
 # DAY10: FRIDAY 31

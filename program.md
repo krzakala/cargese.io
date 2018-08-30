@@ -69,7 +69,7 @@ Chemistry and Physics and Machine Learning Together:
 
 # DAY7: TUESDAY 28
 
-9-12.15: Sundeep Rangan
+9-12.15: Sundeep Rangan [Approximate Message Passing Tutorial](AMP_Tutorial_18.pdf)
 
 14-14.45: Cynthia Rush [Finite Sample Analysis of AMP](Cynthia.pdf)
 

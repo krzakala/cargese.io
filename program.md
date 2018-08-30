@@ -71,13 +71,14 @@ Chemistry and Physics and Machine Learning Together:
 
 9-12.15: Sundeep Rangan
 
-14-14.45: Cynthia Rush
+14-14.45: Cynthia Rush [Finite Sample Analysis of AMP](Cynthia.pdf)
 
 14.45-15.30:  PierFrancesco Urbani
 
 15.45-16.30: Galeen Reeves
 
-16.30-17.15: Yoshiyuki Kabashima
+16.30-17.15: Yoshiyuki Kabashima [A statistical mechanics approach to
+de-biasing and uncertainty estimation in LASSO](Kabashima.pdf)
 
 # Evending  Conference Grand Public by Stephane Mallat ![Stephane Mallat](stef.jpg)
 
@@ -85,7 +86,7 @@ Chemistry and Physics and Machine Learning Together:
 
 9-12.15: Naftali Tishby [The Information Theory of Deep Learning:  What do the layers represent? ](T.pdf)
 
-14-14.45: Marylou Gabrie
+14-14.45: Marylou Gabrie [Entropy and mutual information in models of deep neural networks](Marylou.pdf)
 
 14.45-15.30: Chiara Cammarota
 

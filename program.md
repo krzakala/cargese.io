@@ -39,7 +39,7 @@ Chemistry and Physics and Machine Learning Together:
 
 # DAY4: FRIDAY 24
 
-9-12.15: Nicolas Brunel
+9-12.15: Nicolas Brunel [Learning and memory in recurrent neural networks](Brunel.pdf)
 
 14-14.45: Remi Monasson
 
@@ -63,7 +63,7 @@ Chemistry and Physics and Machine Learning Together:
 
 # DAY6: MONDAY 27
 
-9-12.15: Giulio Biroli
+9-12.15: Giulio Biroli [Glassy Dynamics in Physics & Beyond](Biroli.pdf)
 
 14-17.15: Yann Lecun
 
@@ -180,7 +180,7 @@ Stefano Sarao: [Performance of Langevin dynamics in high dimensional inference](
 
 Aurélien Decelle: [Thermodynamics properties of restricted boltzmann machines](poster_AD.pdf)
 
-Beatriz Seoane Bartolomé: Can a neural network learn a gauge symmetry?
+Beatriz Seoane Bartolomé: [Can a neural network learn a gauge symmetry?](Bea.pdf)
 
 Alia Abbara: Universal transitions in noiseless compressed sensing and phase retrieval
 

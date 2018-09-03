@@ -98,7 +98,7 @@ de-biasing and uncertainty estimation in LASSO](Kabashima.pdf)
 
 9-12.15: Stephane Mallat
 
-14-14.45: Soledad Vilar
+14-14.45: Soledad Vilar[Optimization and learning techniques for clustering problems](villar.pdf)
 
 14.45-15.30: Samuel Schoenholz[PRIORS FOR DEEP INFINITE NETWORKS](SAM.pdf)
 
@@ -110,9 +110,9 @@ Zamponi[Random Close Packing vs SAT-UNSAT:  a short note ](FZ.pdf)
 
 9-12.15: Riccardo Zecchina
 
-14-14.45: Levent Sagun
+14-14.45: Levent Sagun[An empirical look at the loss landscape](Levent.pdf)
 
-14.45-15.30: Jean-Philippe Bouchaud
+14.45-15.30: Jean-Philippe Bouchaud[Eigenvector Overlaps](Bouchaud.pdf)
 
 15.30-16.15: Giorgio Parisi
 

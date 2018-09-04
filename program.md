@@ -153,6 +153,8 @@ Grant Rotskoff: [Neural networks as interacting particle systems](rotskoff_carge
 
 # Details: Poster session II (Wednesday 29)
 
+Endre Csóka: Local algorithms on random graphs and graph limits
+
 Clément Luneau: [Entropy of Multilayer Generalized Linear Models: proof of the replica formula with the adaptive interpolation method](poster_cluneau.pdf)
 
 Pan Zhang: [Unsupervised Generative Modeling Using Matrix Product States](poster_Zhang.pdf)

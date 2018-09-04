@@ -145,7 +145,7 @@ Jonathan Dong: [Optical realization of Echo-State Networks with light-scattering
 
 Mihai Nica: [Universality of log-normal distribution for randomly initialized neural nets](Gradients_in_NNs_Mihai_Nica_Poster.pdf)
 
-Andrey Lokhov: Understanding the nature of quantum annealers with statistical learning.
+Andrey Lokhov: [Understanding the nature of quantum annealers with statistical learning](AL.pdf).
 
 Eric De Giuli: [Random language model -- a path to structured complexity](EDG.pdf)
 

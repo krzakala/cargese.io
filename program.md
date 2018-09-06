@@ -65,7 +65,7 @@ Chemistry and Physics and Machine Learning Together:
 
 9-12.15: Giulio Biroli [Glassy Dynamics in Physics & Beyond](Biroli.pdf)
 
-14-17.15: Yann Lecun
+14-17.15: Yann Lecun [Deep Learning: Past, Present and Future](LeCun.pdf)
 
 # DAY7: TUESDAY 28
 
